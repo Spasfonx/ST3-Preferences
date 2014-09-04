@@ -1,0 +1,11 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Color/Peacock.custom.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": true	
+}
